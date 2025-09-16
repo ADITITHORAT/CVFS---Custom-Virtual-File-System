@@ -9,14 +9,11 @@ It emulates many functionalities of a real operating system’s file system but 
 The CVFS supports:
 
 File management (creat, open, read, write, close, unlink).
-
 Directory management (mkdir, rmdir, cd, ls).
-
 Metadata retrieval (stat, fstat, chmod, find).
-
 File navigation (lseek).
-
 Utility commands (help, man, clear, exit, mkfs).
+
 ---
 
 ## ⚙️ Technologies Used
@@ -135,14 +132,14 @@ An **inode** represents each file or directory and stores its metadata. It funct
 ---
 📷 Screenshots (Demonstration)
 
-Below are  use-cases with placeholders where you can add the screenshots you already captured:
+
 
 # Project Flow Screenshots
 
 
 ---
 
-## 1. Help and Exit
+## 1. Help 
 ![Help and Exit](screenshots/help.png)
 
 ---
@@ -157,7 +154,7 @@ Below are  use-cases with placeholders where you can add the screenshots you alr
 
 ---
 
-## 4. Stat and Fstat
+## 4. Stat 
 ![Stat and Fstat](screenshots/stat.png)
 
 ---
