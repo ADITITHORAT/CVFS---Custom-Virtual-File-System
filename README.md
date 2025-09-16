@@ -200,4 +200,4 @@ An **inode** represents each file or directory and stores its metadata. It funct
    ```bash
    ./cvfs
    ```
-3 . **Start entering commands in the Marvellous CVFS shell.**
+3 . **Start entering commands in the  CVFS shell.**
