@@ -41,7 +41,7 @@ Utility commands (help, man, clear, exit, mkfs).
 ---
 
 ## Figure 2: File Handling Flow
-![File Handling Flow](architecture/2.png)  
+![File Handling Flow](architecture/Flow.png)  
 **Description:** Flow of file handling from UAREA → File Table → Incore Inode Table → DILB → DB.
 
 ## 🏗️ Core Data Structures
@@ -139,7 +139,6 @@ Below are  use-cases with placeholders where you can add the screenshots you alr
 
 # Project Flow Screenshots
 
-All screenshots are stored in the `screenshots` folder.
 
 ---
 
