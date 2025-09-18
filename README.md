@@ -24,9 +24,10 @@ Utility commands (help, man, clear, exit, mkfs).
 ---
 
 ## 🖥️ User Interface
-- Console-based shell called **Marvellous CVFS**.  
+- Console-based shell called **Custom Virtual File System**.  
 - User enters commands similar to UNIX shell.  
-- Provides built-in help and man pages.  
+- Provides built-in help and man pages.
+  
 
 # Project Architecture
 ---
